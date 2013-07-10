@@ -1,0 +1,1 @@
+E:\Git\HttpRequestEditor\HttpRequestEditor\HttpRequestEditor\bin\Debug\HttpRequestEditor.exe.config
