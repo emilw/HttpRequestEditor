@@ -1,1 +1,12 @@
 E:\Git\HttpRequestEditor\HttpRequestEditor\HttpRequestEditor\bin\Debug\HttpRequestEditor.exe.config
+E:\Git\HttpRequestEditor\HttpRequestEditor\HttpRequestEditor\obj\Debug\HttpRequestEditor.csprojResolveAssemblyReference.cache
+E:\Git\HttpRequestEditor\HttpRequestEditor\HttpRequestEditor\obj\Debug\HttpRequestEditor.GetToken.resources
+E:\Git\HttpRequestEditor\HttpRequestEditor\HttpRequestEditor\obj\Debug\HttpRequestEditor.HTTPRequestEditor.resources
+E:\Git\HttpRequestEditor\HttpRequestEditor\HttpRequestEditor\obj\Debug\HttpRequestEditor.Properties.Resources.resources
+E:\Git\HttpRequestEditor\HttpRequestEditor\HttpRequestEditor\obj\Debug\HttpRequestEditor.csproj.GenerateResource.Cache
+E:\Git\HttpRequestEditor\HttpRequestEditor\HttpRequestEditor\bin\Debug\HttpRequestEditor.exe
+E:\Git\HttpRequestEditor\HttpRequestEditor\HttpRequestEditor\bin\Debug\HttpRequestEditor.pdb
+E:\Git\HttpRequestEditor\HttpRequestEditor\HttpRequestEditor\obj\Debug\HttpRequestEditor.exe
+E:\Git\HttpRequestEditor\HttpRequestEditor\HttpRequestEditor\obj\Debug\HttpRequestEditor.pdb
+E:\Git\HttpRequestEditor\HttpRequestEditor\HttpRequestEditor\bin\Debug\RestSharp.dll
+E:\Git\HttpRequestEditor\HttpRequestEditor\HttpRequestEditor\bin\Debug\RestSharp.xml
