@@ -7,8 +7,9 @@ using System.Xml.Serialization;
 
 namespace HttpRequestEditor.HistoryURL
 {
-    public abstract class HistoryURL
+    [XmlInclude(typeof(HistoryURL))]
+    public class POSTURL : HistoryURL
     {
-        public string URL { get; set; }
+        public string Parameter { get; set; }
     }
 }

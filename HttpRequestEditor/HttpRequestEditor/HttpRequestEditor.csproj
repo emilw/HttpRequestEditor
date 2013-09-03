@@ -53,8 +53,11 @@
     <Compile Include="GetToken.Designer.cs">
       <DependentUpon>GetToken.cs</DependentUpon>
     </Compile>
+    <Compile Include="HistoryURL\AuthenticationURL.cs" />
+    <Compile Include="HistoryURL\GETURL.cs" />
     <Compile Include="HistoryURL\HistoryURL.cs" />
     <Compile Include="HistoryURL\Engine.cs" />
+    <Compile Include="HistoryURL\POSTURL.cs" />
     <Compile Include="HTTPRequestEditor.cs">
       <SubType>Form</SubType>
     </Compile>
