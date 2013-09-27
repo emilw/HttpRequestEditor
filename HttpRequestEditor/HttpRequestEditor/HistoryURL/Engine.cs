@@ -47,6 +47,14 @@ namespace HttpRequestEditor.HistoryURL
             }
         }
 
+        public HistoryURL[] URLEx
+        {
+            get
+            {
+                return _url.ToArray();
+            }
+        }
+
         public void Add(HistoryURL url)
         {
             var result = _url.Where(x => x.GetType() == url.GetType()
